@@ -1,6 +1,6 @@
 # Excel Sales Performance Dashboard
 
-An internship project by **Balram Kumar**, completed during the Data Analyst internship at Renu Sharma Healthcare and Educational Foundation (24 August–24 September 2026).
+I completed this Excel project during my Data Analyst internship at Renu Sharma Healthcare and Educational Foundation (24 August–24 September 2026).
 
 ## Business question
 How do sales and profit vary across time, cities and product categories, and which areas deserve closer operational review?
@@ -11,7 +11,7 @@ Download `Task_1_Submission_File.xlsx` and open it in desktop Excel to explore t
 The original workbook is preserved without modification. It contains `Summary`, `Sales_Dashboard`, `Calculations` and `Raw_Data` sheets. The workflow covers data cleaning and standardisation, Pivot Table reporting and dashboard presentation for stakeholders.
 
 ## Verified dataset totals
-The supplied workbook contains 30,000 records dated 1 January 2025–31 July 2026.
+My workbook contains 30,000 records dated 1 January 2025–31 July 2026.
 
 | Measure | Value |
 | --- | ---: |
